@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- =============================================================
 -- Sistema de Gestión de Proyectos - Inicialización de Base de Datos
 -- Autores: 
@@ -12,9 +12,6 @@
 --   triggers de auditoría y una función escalar (promedio de experiencia).
 --   También incluye datos de prueba iniciales.
 -- =============================================================
-
-======
->>>>>>> c212b7e (feat: añadir script de gestión de proyectos y actualizar creación de base de datos)
 --- Desarrollo de un Sistema de Gestión de Proyectos con CRUD, Funciones y Auditoría mediante Triggers en MySQL.
 
 ## 1. Procedimientos Almacenados (CRUD)  
